@@ -1,0 +1,2 @@
+buzzer.c:8:6:buzzer_init	32	static
+buzzer.c:27:6:test_buzzer	8	static

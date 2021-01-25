@@ -1,0 +1,2 @@
+timer_base.c:9:6:timer_base_init	16	static
+timer_base.c:51:6:TIM3_IRQHandler	8	static

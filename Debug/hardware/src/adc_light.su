@@ -1,0 +1,2 @@
+adc_light.c:12:6:adc_init	48	static
+adc_light.c:61:6:get_value_adc_light	24	static

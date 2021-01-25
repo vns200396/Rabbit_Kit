@@ -1,0 +1,15 @@
+oled.c:281:6:iic_init	32	static
+oled.c:308:6:iic_start	4	static
+oled.c:317:6:iic_stop	4	static
+oled.c:324:6:iic_acknowledge	4	static
+oled.c:330:6:iic_write_byte	24	static
+oled.c:350:6:oled_write_cmd	16	static
+oled.c:362:6:oled_write_dat	16	static
+oled.c:375:6:oled_init	8	static
+oled.c:471:6:oled_set_pos	16	static
+oled.c:483:6:oled_clscr	16	static
+oled.c:500:6:oled_display_on	8	static
+oled.c:509:6:oled_display_off	8	static
+oled.c:517:6:oled_ShowChar	32	static
+oled.c:544:6:oled_ShowString	24	static
+oled.c:556:6:oled_DrawBMP	32	static

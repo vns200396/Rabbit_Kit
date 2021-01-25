@@ -1,0 +1,2 @@
+infrared_reflective.c:7:6:infrared_reflective_init	32	static
+infrared_reflective.c:36:6:infrared_reflective_callback	8	static
